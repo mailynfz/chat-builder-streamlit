@@ -1,0 +1,8 @@
+streamlit==1.29.0
+st_pages
+openai
+xata
+requests
+boto3
+botocore
+altair==4.0
